@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: videoshop
+Implementation-Version: 2.0.0.BUILD-SNAPSHOT
+Built-By: Daniel
+Implementation-Vendor-Id: de.tudresden.inf.st
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/st-lab-parent/videoshop
+Created-By: Maven Integration for Eclipse
+
